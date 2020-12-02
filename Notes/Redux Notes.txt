@@ -1,0 +1,18 @@
+"Redux is a predictable state container for javascript apps"
+
+- Not tied to React -> it's for javascript
+- Stores the state of your application
+- All state transitions are explicit and possible to keep track of them
+
+"Why react + redux?"
+
+- Keeps state out of the individual components and communicates only with the components it needs to
+
+"Do we really have a problem?"
+
+- React context - prevents prop drilling
+- useContext + useReducer - does the same thing as redux
+
+"React-Redux is the official Redux UI binding library for React"
+
+- Use react-redux if you are also using react, otherwise just redux is fine
