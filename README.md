@@ -12,4 +12,4 @@ node index.js
 
 # Notes
 
-This application illustrates redux, which is a state management concept/library that you can use with any javascript application. You can find some notes I've taken in the notes folder, as well as commented notes in both asyncActions.js and index.js. Although it is important to know basic redux before using it in a specific framework, I have a react-redux project [here](<url>)
+This application illustrates redux, which is a state management concept/library that you can use with any javascript application. You can find some notes I've taken in the notes folder, as well as commented notes in both asyncActions.js and index.js. Although it is important to know basic redux before using it in a specific framework, I have a react-redux project [here](<https://github.com/rnabeeh93/React-Redux-Tutorial>)
